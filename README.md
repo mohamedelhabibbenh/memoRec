@@ -1,5 +1,5 @@
 # memoRec
-Une <p style="color:red">application</p> web  pour sauvegarder, modifier et supprimer des mémos en utilisant ReactJs (front-end) et Spring boot (back-end). 
+Une <p style="color:red;">application</p> web  pour sauvegarder, modifier et supprimer des mémos en utilisant ReactJs (front-end) et Spring boot (back-end). 
 
 <p  align="center">
 <img align="center" src='/logo.png' alt="logo" width="400"/>
