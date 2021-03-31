@@ -59,46 +59,46 @@ de plus, comme memoRec est une application web, vous pouvez accéder à vos mém
 ## Commencer
 ### prérequis
 
-Install node.js :
+Installer node.js :
 <a href = "https://nodejs.org/en/download/">Node.js</a>
 ### Installation
 
-1. **Clone the repo**
+1. **Cloner the repo**
    ```sh
    git clone https://github.com/benyob/memoRec.git
    ```
-2. **cd to health_monitor folder**
+2. **cd a health_monitor folder**
    ```sh
    cd memo-rec
    ```
-3. **install axios**<br>
-   with npm : 
+3. **installer axios**<br>
+   avec npm : 
    ```sh 
    npm install axios
    ```
-   with yarn : 
+   avec yarn : 
    ```sh 
    yarn add axios
    ```
-4. **install React Router**<br>
+4. **installer React Router**<br>
    ```sh 
    npm install react-router-dom
 
    ```
-5. **install Styled Components**<br>
+5. **installer Styled Components**<br>
    ```sh 
    npm install --save styled-components
    ```
-6. **install React Spring**<br>
+6. **installer React Spring**<br>
    ```sh 
    npm install react-spring
    ```
 
-7. **run node server**<br>
+7. **executer node server**<br>
    ```sh 
    npm start
     ```
-8. **run spring boot server**<br>
+8. **executer spring boot server**<br>
    ```sh 
    Ctrl+F11
     ```
