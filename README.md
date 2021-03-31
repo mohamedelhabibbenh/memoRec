@@ -11,7 +11,7 @@ Une application web  pour sauvegarder, modifier et supprimer des mémos en utili
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">À propos du projet</a>
+      <a href="#a-propos-du-projet">À propos du projet</a>
       <ul>
         <li><a href="#languages-and-tools">Langues et outils</a></li>
       </ul>
