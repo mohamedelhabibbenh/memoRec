@@ -11,9 +11,9 @@ Une application web  pour sauvegarder, modifier et supprimer des mémos en utili
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#a-propos-du-projet">À propos du projet</a>
+      <a href="#a-propos-du-projet">A propos du projet</a>
       <ul>
-        <li><a href="#languages-and-tools">Langues et outils</a></li>
+        <li><a href="#langues-et-outils">Langues et outils</a></li>
       </ul>
     </li>
     <li>
@@ -27,7 +27,7 @@ Une application web  pour sauvegarder, modifier et supprimer des mémos en utili
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## À propos du projet
+## A propos du projet
 <details open="open">
 <p>
 Prendre des notes est une affaire sérieuse, et avoir la bonne application de prise de notes peut faire toute la différence dans votre capacité à rester organisé. C'est parce qu'une bonne application de prise de notes ne vous aide pas seulement à prendre des notes; il permet également de retrouver facilement ce que vous avez enregistré plus tard, quel que soit l'endroit où vous vous trouvez ou le type d'appareil que vous utilisez. Et c'est exactement ce que propose memoRec.
@@ -37,7 +37,7 @@ de plus, comme memoRec est une application web, vous pouvez accéder à vos mém
 </p>
 </details>
 
-## Languages and Tools
+## Langues et outils
 <p align="left"> 
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
