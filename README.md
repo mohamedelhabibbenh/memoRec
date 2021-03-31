@@ -17,9 +17,9 @@ Une application web  pour sauvegarder, modifier et supprimer des mémos en utili
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Commencer</a>
+      <a href="#Commencer">Commencer</a>
       <ul>
-        <li><a href="#prerequisites">prérequis</a></li>
+        <li><a href="#prérequis">prérequis</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
