@@ -67,7 +67,7 @@ Installer node.js :
    ```sh
    git clone https://github.com/benyob/memoRec.git
    ```
-2. **cd a health_monitor folder**
+2. **cd a memo-rec folder**
    ```sh
    cd memo-rec
    ```
