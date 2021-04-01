@@ -8,7 +8,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Table des matières:</summary>
   <ol>
     <li>
       <a href="#a-propos-du-projet">A propos du projet</a>
