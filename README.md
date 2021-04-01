@@ -63,7 +63,7 @@ Installer node.js :
 <a href = "https://nodejs.org/en/download/">Node.js</a>
 ### Installation
 
-1. **Cloner the repo**
+1. **Cloner le repo**
    ```sh
    git clone https://github.com/benyob/memoRec.git
    ```
