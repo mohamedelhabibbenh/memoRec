@@ -31,7 +31,7 @@ public class MemoView {
 
     // get all memo
     @GetMapping("/memo_list")
-    public List < Memo > getAllEmployees() {
+    public List < Memo > getAllMemos() {
         return memoRepo.findAll();
     }
 
