@@ -65,7 +65,7 @@ Installer node.js :
 
 1. **Cloner le repo**
    ```sh
-   git clone https://github.com/benyob/memoRec.git
+   git clone https://github.com/mohamedelhabibbenh/memoRec.git
    ```
 2. **cd a memo-rec folder**
    ```sh
